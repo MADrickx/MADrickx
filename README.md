@@ -1,3 +1,5 @@
-[![MADrickx's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADrickx)](https://github.com/anuraghazra/github-readme-stats)
-![MADrickx's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADrickx&count_private=true).
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MADrickx)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naim350z&show_icons=true&locale=en&layout=compact" alt="naim350z" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naim350z&show_icons=true&locale=en" alt="naim350z" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naim350z&" alt="naim350z" /></p>
