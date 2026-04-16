@@ -1,4 +1,4 @@
-# Hey, I'm Audric 👋
+# Hey, I'm MADrickx 👋
 
 Developer who enjoys owning problems end-to-end — from pixels to pipelines, web to mobile, cloud to CLI.
 
