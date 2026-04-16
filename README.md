@@ -50,5 +50,3 @@ Developer who enjoys owning problems end-to-end — from pixels to pipelines, we
 - **Flish.io** — Personal VPS file explorer through a web client
 
 ---
-
-`<img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=MADrickx&" alt="MADrickx" />`
