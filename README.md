@@ -7,10 +7,10 @@ Developer who enjoys owning problems end-to-end — from pixels to pipelines, we
 ### 🧠 What I do
 
 - Architect & ship **web applications** — from component design to production deployment
-- Build **cross-platform mobile apps** with Xamarin & .NET MAUI
+- Build **cross-platform mobile apps** with .NET MAUI & FLutter
 - Create **developer tooling** — VS Code extensions, CLI utilities, build automation
 - Wire up **cloud infrastructure** and third-party integrations (GCP, Firebase, Peppol, APIs)
-- Write **tests, pipelines, and deploy scripts** — if it runs in prod, it's my business
+- Write **tests, pipelines, and deploy scripts** — efficient deploys
 
 ---
 
