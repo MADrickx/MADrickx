@@ -16,7 +16,7 @@ Developer who enjoys owning problems end-to-end — from pixels to pipelines, we
 
 ### 🗂️ Languages
 
-`🟦 TypeScript` · `🟨 JavaScript` · `🟣 C#` · `🌐 HTML` · `🎨 CSS`
+`🟦 TypeScript` · `🟨 JavaScript` · `🟣 C#` · `🎯 Dart` · `🌐 HTML` · `🎨 CSS`
 
 **Currently learning**
 `⚡ Zig`
@@ -29,7 +29,7 @@ Developer who enjoys owning problems end-to-end — from pixels to pipelines, we
 `🅰️ Angular` · `⚛️ React` · `🧊 Three.js` · `💅 SCSS` · `🅱️ Bootstrap`
 
 **Mobile**
-`📱 Xamarin` · `📲 .NET MAUI`
+`📱 Flutter` · `📲 .NET MAUI`
 
 **Backend**
 `🔷 .NET / ASP.NET Core` · `🟢 Node.js / Express` · `🗄️ MySQL` · `📦 Entity Framework`
